@@ -1,0 +1,16 @@
+.skin-red .main-header .navbar {
+	background-color: #000000;
+}
+.skin-red .main-header .logo {
+	background-color: #000000;
+}
+.skin-red .sidebar-menu>li.active>a, .skin-red .sidebar-menu>li:hover>a {
+	border-left-color: #000000;
+}
+h1 {
+	margin-top: 0px;
+	color: #000000;
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6{
+	font-family: "Arial", cursive;
+}
