@@ -1,5 +1,4 @@
-# Hackathon2017Perth
-For the AMI of Hackathon in 2017
+# Acoustic Mapper and Isolator
 
 # Introduction
 
